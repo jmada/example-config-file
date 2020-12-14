@@ -1,5 +1,5 @@
 # example-config-file
-Just an example for a better way to write config files in PHP.
+Just an example for a better way to write config files in Vanilla PHP.
 
 # Security
 _For security, add in .htaccess to prevent access to config.php file_
