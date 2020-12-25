@@ -2,7 +2,7 @@
 Just an example for a better way to write config files in Vanilla PHP.
 
 # Security
-_For security, add in .htaccess to prevent access to config.php file_
+_To prevent access to config.php file, add into the .htaccess file:_
 ```
 <Files config.php>
     order allow,deny
